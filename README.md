@@ -1,3 +1,3 @@
 # BitcoinWallet
 
-Following of a tutorial (without UI).
+Following a tutorial (without UI).
