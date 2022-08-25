@@ -1,3 +1,3 @@
 # BitcoinWallet
 
-Following a tutorial (without UI).
+Following a tutorial (without UI). Code is not mine!
